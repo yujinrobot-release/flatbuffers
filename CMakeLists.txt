@@ -3,6 +3,8 @@ cmake_minimum_required(VERSION 2.8)
 #project(FlatBuffers)
 project(flatbuffers)
 
+find_package(catkin)
+
 # NOTE: Code coverage only works on Linux & OSX.
 option(FLATBUFFERS_CODE_COVERAGE "Enable the code coverage build option." OFF)
 option(FLATBUFFERS_BUILD_TESTS "Enable the build of tests and samples." OFF)
