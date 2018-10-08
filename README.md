@@ -1,3 +1,26 @@
+## flatbuffers (kinetic) - 1.1.0-0
+
+The packages in the `flatbuffers` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic flatbuffers` on `Mon, 08 Oct 2018 11:13:04 -0000`
+
+The `flatbuffers` package was released.
+
+Version of package(s) in repository `flatbuffers`:
+
+- upstream repository: https://github.com/stonier/flatbuffers
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.40`
+
+
 ## flatbuffers (melodic) - 1.1.0-0
 
 The packages in the `flatbuffers` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic flatbuffers` on `Sun, 07 Oct 2018 22:04:00 -0000`
